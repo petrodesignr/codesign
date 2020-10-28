@@ -319,7 +319,7 @@ main .site-title {
     background-image: url(../img/notepad\ image.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 100vh;
+    height: 50vh;
     overflow: hidden;
   }
 
