@@ -329,7 +329,7 @@ main .site-title {
   .all {
     display: -webkit-box;
     display: flex;
-    
+    margin: 0% 20% 0% 20%;
     -webkit-perspective: 10px;
             perspective: 10px;
     -webkit-transform: perspective(300px) rotateX(20deg);
@@ -343,7 +343,7 @@ main .site-title {
             justify-content: center;
     -webkit-transform-style: preserve-3d;
             transform-style: preserve-3d;
-  }
+            }
   
   .all:hover {
     -webkit-perspective: 1000px;
