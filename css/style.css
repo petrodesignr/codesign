@@ -319,8 +319,9 @@ main .site-title {
     background-image: url(../img/notepad\ image.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 80vh;
+    height: 75vh;
     overflow: hidden;
+    
   }
 
 
@@ -329,7 +330,7 @@ main .site-title {
   .all {
     display: -webkit-box;
     display: flex;
-    margin: 0% 20% 0% 20%;
+    margin: 1.5% 20% 0% 20%;
     -webkit-perspective: 10px;
             perspective: 10px;
     -webkit-transform: perspective(300px) rotateX(20deg);
